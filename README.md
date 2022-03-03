@@ -1,2 +1,2 @@
-# memes
-My Personal Memes Archive
+# Memes
+My Personal Memes Archive repository
